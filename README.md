@@ -4,6 +4,10 @@ A powerful web-based medical image analysis tool built with React and TypeScript
 
 ![MedImage Analysis](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=2070)
 
+## Live Link 
+-[MedImage Analysis](https://dynamic-tapioca-e7d15f.netlify.app/)
+
+
 ## Features
 
 - 🖼️ Support for multiple image formats (PNG, JPEG, DICOM)
