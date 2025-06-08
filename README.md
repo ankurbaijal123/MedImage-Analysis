@@ -103,3 +103,11 @@ npm run build
 
 The built files will be in the `dist` directory.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/c2963287-1186-4066-9baa-c1a66b3a3c37)
+![image](https://github.com/user-attachments/assets/4a0b4ace-4790-4550-94a8-8ca2bbc8818a)
+![image](https://github.com/user-attachments/assets/ca88be8f-3dea-4e9a-96db-8fdbf47a53d8)
+
+
+
+
